@@ -1,0 +1,22 @@
+BEM 
+
+Bloco Element Modificador
+
+Bloco 
+
+O filho de um blco é um elemento 
+
+Nav class="menu" // bloco
+    ul class="menu__lista" // filho/elemento de um bloco
+        li class="menu__lista--item"
+
+
+
+
+Bloco
+
+Bloco__elemento
+
+Bloco--Modificador
+
+Bloco__elemento--modificacdor
