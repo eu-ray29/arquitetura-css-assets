@@ -21,3 +21,8 @@
     background-image: url("../../img/pessoas/andreia.jpg");
 }
 
+@media screen and (min-width:768px) {
+    .pessoa__imagem {
+        width: 200px;
+    }
+}
