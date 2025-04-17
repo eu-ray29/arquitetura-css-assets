@@ -4,7 +4,7 @@
 @import url(../css/menu/menu-lista.css);
 @import url(../css/menu/menu-item.css);
 @import url(../css/menu/menu-link.css);
-
+@import url(../css/menu/logo.css);
 
 /*banner*/
 
@@ -40,3 +40,7 @@
 @import url(../css/pessoa/pessoa-imagem.css);
 @import url(../css/pessoa/pessoa-nome.css);
 @import url(../css/pessoa/pessoa-funcao.css);
+
+
+/*rodape*/
+@import url(../css/rodape.css);
