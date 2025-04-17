@@ -3,9 +3,7 @@
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100%;
     margin: 0 auto;
-    width: 100%; 
 }
 
 .pessoa__imagem--roberta {
@@ -21,3 +19,23 @@
     background-image: url("../../img/pessoas/andreia.jpg");
 }
 
+@media screen and (min-width:0) {
+    .pessoa__imagem {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .pessoa__imagem {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .pessoa__imagem {
+        height: 300px;
+        width: 300px; 
+    }
+}
