@@ -5,7 +5,7 @@
     background-repeat: no-repeat;
     height: 300px;
     margin: 0 auto;
-    width: 300px; 
+    width: 100%; 
 }
 
 .pessoa__imagem--roberta {
